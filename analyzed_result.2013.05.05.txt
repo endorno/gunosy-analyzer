@@ -1,0 +1,670 @@
+will analyze 80 user
+fetching http://gunosy.com/Kohei_Yasuhara/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/sports/soccer/news/20130503/soc1305031158000-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/akira.negishi/2013/05/05 ...
+DONE fetching.
+
+url:http://mantan-web.jp/2013/05/03/20130502dog00m200089000c.html
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://japan.cnet.com/news/service/35031626/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/vanilla0901/2013/05/05 ...
+DONE fetching.
+
+url:http://www.fashionsnap.com/the-posts/2013-05-03/budweiser-newdesign/
+hatebed at:2013-05-05 18:08:08
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/nomisugiyatee/2013/05/05 ...
+DONE fetching.
+
+url:http://mantan-web.jp/2013/05/03/20130503dog00m200019000c.html
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.fashionsnap.com/news/2013-05-03/lee-cafe-umeda/topics/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/plainpwwlv/2013/05/05 ...
+DONE fetching.
+
+url:http://www.cinematoday.jp/page/N0052617
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/hyji666yukka/2013/05/05 ...
+DONE fetching.
+
+url:http://www.fashionsnap.com/the-posts/2013-05-03/budweiser-newdesign/
+hatebed at:2013-05-05 18:08:08
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.fashionsnap.com/collection/sasquatchfabrix/2013-14aw/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/TomonobuSato1359594619/2013/05/05 ...
+DONE fetching.
+fetching http://gunosy.com/color_chips/2013/05/05 ...
+DONE fetching.
+
+url:http://www.fashionsnap.com/collection/sasquatchfabrix/2013-14aw/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.fashionsnap.com/the-posts/2013-05-03/budweiser-newdesign/
+hatebed at:2013-05-05 18:08:08
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/sports/etc_sports/news/20130503/spo1305030708001-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/meito_shirasaki/2013/05/05 ...
+DONE fetching.
+
+url:http://www.cinematoday.jp/page/N0052656
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/Miemie1313/2013/05/05 ...
+DONE fetching.
+fetching http://gunosy.com/marinugohan/2013/05/05 ...
+DONE fetching.
+
+url:http://www.fashionsnap.com/collection/sasquatchfabrix/2013-14aw/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.fashionsnap.com/the-posts/2013-05-03/budweiser-newdesign/
+hatebed at:2013-05-05 18:08:08
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/sports/soccer/news/20130503/soc1305031158000-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/kawamurahayato/2013/05/05 ...
+DONE fetching.
+fetching http://gunosy.com/noboshin/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/society/politics/news/20130503/plt1305032106002-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/dhentaitai/2013/05/05 ...
+DONE fetching.
+fetching http://gunosy.com/NaoharuSasaki/2013/05/05 ...
+DONE fetching.
+fetching http://gunosy.com/TakeruSasaki/2013/05/05 ...
+DONE fetching.
+fetching http://gunosy.com/studiomaestro/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/entertainment/ent-news/news/20130503/enn1305031136005-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://mantan-web.jp/2013/05/03/20130503dog00m200016000c.html
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/society/domestic/news/20130503/dms1305030712003-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/akiraedu/2013/05/05 ...
+DONE fetching.
+
+url:http://mantan-web.jp/2013/05/03/20130502dog00m200089000c.html
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/yuuto_kakumei/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/sports/soccer/news/20130503/soc1305031158000-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/iTetuo/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/sports/etc_sports/news/20130503/spo1305030708000-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/entertainment/ent-news/news/20130503/enn1305031116002-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.fashionsnap.com/the-posts/2013-05-03/budweiser-newdesign/
+hatebed at:2013-05-05 18:08:08
+deliterd at:2013-05-05 08:00:00
+
+url:http://designwork-s.com/article/358458003.html
+hatebed at:2013-05-05 23:07:11
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/hosakatakeshi/2013/05/05 ...
+DONE fetching.
+fetching http://gunosy.com/kara2jojo/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/economy/ecn-news/news/20130503/ecn1305030712000-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.fashionsnap.com/the-posts/2013-05-03/tcc-2013/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/sports/soccer/news/20130503/soc1305031158000-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://designwork-s.com/article/358458003.html
+hatebed at:2013-05-05 23:07:11
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/sports/soccer/news/20130503/soc1305032104001-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/kichiden_syu/2013/05/05 ...
+DONE fetching.
+fetching http://gunosy.com/maido3/2013/05/05 ...
+DONE fetching.
+fetching http://gunosy.com/ShinjiKimura/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/society/domestic/news/20130503/dms1305031445010-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/economy/investment/news/20130503/inv1305030715000-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/eastofdesolat/2013/05/05 ...
+DONE fetching.
+fetching http://gunosy.com/komatsu.hiroshi.3/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/sports/etc_sports/news/20130503/spo1305030708000-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/entertainment/ent-news/news/20130503/enn1305031116002-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/society/domestic/news/20130503/dms1305030712001-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/ASIAAROWANAshin/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/economy/ecn-news/news/20130503/ecn1305031145002-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/akiraiida1224/2013/05/05 ...
+DONE fetching.
+
+url:http://designwork-s.com/article/358458003.html
+hatebed at:2013-05-05 23:07:11
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/sports/etc_sports/news/20130503/spo1305030708000-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/ShojiKawahara/2013/05/05 ...
+DONE fetching.
+
+url:http://www.biranger.jp/archives/69416
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/tatsuof1/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/entertainment/ent-news/news/20130503/enn1305031116002-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/0120staff/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/sports/etc_sports/news/20130503/spo1305030708001-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/wakaken_1027/2013/05/05 ...
+DONE fetching.
+fetching http://gunosy.com/hideyuki.minakata/2013/05/05 ...
+DONE fetching.
+fetching http://gunosy.com/namaegawakannai/2013/05/05 ...
+DONE fetching.
+
+url:http://designwork-s.com/article/358458003.html
+hatebed at:2013-05-05 23:07:11
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/atticroom/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/economy/ecn-news/news/20130503/ecn1305031145002-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.cinematoday.jp/page/N0052575
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/hitoshi.hamaoka/2013/05/05 ...
+DONE fetching.
+
+url:http://designwork-s.com/article/358458003.html
+hatebed at:2013-05-05 23:07:11
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/syuhfuku/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/entertainment/ent-news/news/20130503/enn1305031116002-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://googirl.jp/renai/1305sousyokukei645/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://googirl.jp/renai/1305karenokanshin693/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/economy/ecn-news/news/20130503/ecn1305030712000-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/kiyomasak1/2013/05/05 ...
+DONE fetching.
+fetching http://gunosy.com/toshiaki.okano/2013/05/05 ...
+DONE fetching.
+
+url:http://www.fashionsnap.com/the-posts/2013-05-03/budweiser-newdesign/
+hatebed at:2013-05-05 18:08:08
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/sports/etc_sports/news/20130503/spo1305030708001-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.fashionsnap.com/news/2013-05-03/lee-cafe-umeda/topics/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.fashionsnap.com/collection/sasquatchfabrix/2013-14aw/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/breakyone/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/sports/baseball/news/20130503/bbl1305032100009-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/sports/baseball/news/20130503/bbl1305031004002-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://mantan-web.jp/2013/05/03/20130502dog00m200089000c.html
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://mantan-web.jp/2013/05/03/20130502dog00m200012000c.html
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://mantan-web.jp/2013/05/03/20130502dog00m200083000c.html
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/haruo.kuno.3/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/entertainment/ent-news/news/20130503/enn1305030711001-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/rikki1jp/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/economy/ecn-news/news/20130503/ecn1305030712000-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://googirl.jp/entame-2/1305bokehpic564/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://designwork-s.com/article/358458003.html
+hatebed at:2013-05-05 23:07:11
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/takafumi.kitoh/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/entertainment/gooranking/news/20130503/gor1305031118001-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/insight1839/2013/05/05 ...
+DONE fetching.
+
+url:http://japan.cnet.com/news/service/35031626/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.fashionsnap.com/news/2013-05-03/lee-cafe-umeda/topics/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/__sayaka/2013/05/05 ...
+DONE fetching.
+fetching http://gunosy.com/daisuke.iijima1/2013/05/05 ...
+DONE fetching.
+
+url:http://www.fashionsnap.com/the-posts/2013-05-03/budweiser-newdesign/
+hatebed at:2013-05-05 18:08:08
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.fashionsnap.com/collection/sasquatchfabrix/2013-14aw/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/sports/etc_sports/news/20130503/spo1305030708001-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/youkokitty/2013/05/05 ...
+DONE fetching.
+fetching http://gunosy.com/hiroyuki_sa/2013/05/05 ...
+DONE fetching.
+
+url:http://www.cinematoday.jp/page/N0052617
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/g/2013/05/05 ...
+fetching http://gunosy.com/holon2191/2013/05/05 ...
+DONE fetching.
+
+url:http://mantan-web.jp/2013/05/03/20130502dog00m200089000c.html
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://mantan-web.jp/2013/05/03/20130503dog00m200016000c.html
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/society/domestic/news/20130503/dms1305030712001-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/kosuke.ohata/2013/05/05 ...
+DONE fetching.
+fetching http://gunosy.com/kazuto.ishii/2013/05/05 ...
+DONE fetching.
+
+url:http://www.fashionsnap.com/the-posts/2013-05-03/budweiser-newdesign/
+hatebed at:2013-05-05 18:08:08
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/sports/etc_sports/news/20130503/spo1305030708001-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/YukiMatsumoto/2013/05/05 ...
+DONE fetching.
+
+url:http://www.fashionsnap.com/the-posts/2013-05-03/budweiser-newdesign/
+hatebed at:2013-05-05 18:08:08
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/sports/etc_sports/news/20130503/spo1305030708001-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/ryo.abe/2013/05/05 ...
+DONE fetching.
+
+url:http://www.itmedia.co.jp/news/articles/1305/03/news008.html
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/LUGGAGEBAGGAGE/2013/05/05 ...
+DONE fetching.
+
+url:http://mantan-web.jp/2013/05/03/20130503dog00m200016000c.html
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/tm1129/2013/05/05 ...
+DONE fetching.
+
+url:http://designwork-s.com/article/358458003.html
+hatebed at:2013-05-05 23:07:11
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/kabaneshi/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/sports/etc_sports/news/20130503/spo1305030708000-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/makokoron/2013/05/05 ...
+DONE fetching.
+
+url:http://mantan-web.jp/2013/05/03/20130503dog00m200016000c.html
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/Minami_Hide/2013/05/05 ...
+DONE fetching.
+
+url:http://googirl.jp/renai/1305karenokanshin693/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://googirl.jp/renai/1305sousyokukei645/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://googirl.jp/entame-2/1305bokehpic564/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/entertainment/ent-news/news/20130503/enn1305031116002-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/sports/etc_sports/news/20130503/spo1305030708000-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/masakingm/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/entertainment/ent-news/news/20130503/enn1305031116002-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://toyokeizai.net/articles/-/13865
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/economy/investment/news/20130503/inv1305030715000-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/yuske024/2013/05/05 ...
+DONE fetching.
+
+url:http://japan.cnet.com/news/service/35031626/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/y55k/2013/05/05 ...
+DONE fetching.
+fetching http://gunosy.com/Mh_Philoview/2013/05/05 ...
+DONE fetching.
+fetching http://gunosy.com/masami.ichimura/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/sports/etc_sports/news/20130503/spo1305030708000-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/entertainment/ent-news/news/20130503/enn1305031116002-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/bowkuro/2013/05/05 ...
+DONE fetching.
+
+url:http://www.fashionsnap.com/collection/sasquatchfabrix/2013-14aw/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.fashionsnap.com/the-posts/2013-05-03/budweiser-newdesign/
+hatebed at:2013-05-05 18:08:08
+deliterd at:2013-05-05 08:00:00
+
+url:http://japan.cnet.com/news/service/35031626/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/entertainment/ent-news/news/20130503/enn1305031136005-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://mantan-web.jp/2013/05/03/20130502dog00m200089000c.html
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/yutaka.sawada2011/2013/05/05 ...
+DONE fetching.
+
+url:http://googirl.jp/lifestyle/1305nemukunaruheya596/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/sports/etc_sports/news/20130503/spo1305030708000-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/entertainment/ent-news/news/20130503/enn1305031116002-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/mharag/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/sports/baseball/news/20130503/bbl1305031004002-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/sports/baseball/news/20130503/bbl1305031651007-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/nozonder/2013/05/05 ...
+DONE fetching.
+
+url:http://designwork-s.com/article/358453414.html
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.fashionsnap.com/collection/sasquatchfabrix/2013-14aw/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/society/politics/news/20130503/plt1305032106002-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/Lagneko/2013/05/05 ...
+DONE fetching.
+
+url:http://japan.cnet.com/news/service/35031626/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.fashionsnap.com/the-posts/2013-05-03/budweiser-newdesign/
+hatebed at:2013-05-05 18:08:08
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.fashionsnap.com/collection/sasquatchfabrix/2013-14aw/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/kazuhikokuze/2013/05/05 ...
+DONE fetching.
+fetching http://gunosy.com/ichihashi.kunihiro/2013/05/05 ...
+DONE fetching.
+
+url:http://designwork-s.com/article/358458003.html
+hatebed at:2013-05-05 23:07:11
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/mitsuhiro.natsume/2013/05/05 ...
+fetching http://gunosy.com/marimotty/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/sports/etc_sports/news/20130503/spo1305030708000-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/entertainment/ent-news/news/20130503/enn1305031116002-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/Takosan555/2013/05/05 ...
+DONE fetching.
+
+url:http://www.itmedia.co.jp/news/articles/1305/03/news008.html
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/ShunsukeTakahashi/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/entertainment/ent-news/news/20130503/enn1305031116002-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.fashionsnap.com/the-posts/2013-05-03/budweiser-newdesign/
+hatebed at:2013-05-05 18:08:08
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/sports/etc_sports/news/20130503/spo1305030708000-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/nyaosan1/2013/05/05 ...
+DONE fetching.
+fetching http://gunosy.com/mr_ws_desu/2013/05/05 ...
+DONE fetching.
+
+url:http://www.fashionsnap.com/the-posts/2013-05-03/budweiser-newdesign/
+hatebed at:2013-05-05 18:08:08
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/sports/etc_sports/news/20130503/spo1305030708001-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.fashionsnap.com/news/2013-05-03/lee-cafe-umeda/topics/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/ahiror/2013/05/05 ...
+DONE fetching.
+
+url:http://googirl.jp/renai/1305sousyokukei645/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://googirl.jp/renai/1305karenokanshin693/
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/entertainment/ent-news/news/20130503/enn1305031116002-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/sports/etc_sports/news/20130503/spo1305030708000-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://designwork-s.com/article/358458003.html
+hatebed at:2013-05-05 23:07:11
+deliterd at:2013-05-05 08:00:00
+fetching http://gunosy.com/yasuhiro.hayashi.796/2013/05/05 ...
+DONE fetching.
+
+url:http://www.zakzak.co.jp/entertainment/ent-news/news/20130503/enn1305031136005-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://www.zakzak.co.jp/sports/soccer/news/20130503/soc1305031158000-n1.htm
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+url:http://mantan-web.jp/2013/05/03/20130503dog00m200022000c.html
+hatebed at:None
+deliterd at:2013-05-05 08:00:00
+
+before: 127
+after: 1798
