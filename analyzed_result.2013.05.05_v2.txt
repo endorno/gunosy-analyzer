@@ -1,4 +1,4 @@
-----use next accounts-----
+----use following accounts-----
 [
     "studiomaestro", 
     "makokoron", 

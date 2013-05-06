@@ -10,13 +10,14 @@ import urllib
 from prettyprint import pp
 
 url_analyzer = re.compile('http://gunosy.com/(.*?)/.*')
-search_query = u"のGunosy via",
+search_query = u"のGunosy via"
+
 def find_gunosy_accounts():
     api = tweepy.API()
     gunosy_accounts = set()
     for tweet in tweepy.Cursor(api.search,
                                q=search_query,
-                               rpp=10,
+                               rpp=100,
                                result_type="recent",
                                include_entities=True,
                                lang="ja").items():
@@ -25,7 +26,10 @@ def find_gunosy_accounts():
             result = url_analyzer.search(url)
             if result:
                 gunosy_accounts.add(result.group(1))
-    return list(gunosy_accounts)
+    gunosy_accounts = list(gunosy_accounts)
+    print "----use following accounts-----"
+    pp(gunosy_accounts)
+    return gunosy_accounts
 
 def extract_recommended_urls(gunosy_url):
     try:
@@ -47,7 +51,6 @@ def extract_recommended_urls(gunosy_url):
     for article in articles['article']:
         if article.has_key('title') and article['title'] is not None:
             urls.append(article['url'])
-            get_time_hatebed_at(article['url'])
     return urls
 
 def get_time_hatebed_at(url):
@@ -83,7 +86,7 @@ def main():
         for recommended_url in recommended_urls:
             hatebed = get_time_hatebed_at(recommended_url)
             if hatebed is None or hatebed > delivered:
-                print "\nurl:%s\nhatebed at:%s\ndeliterd at:%s"%(recommended_url,hatebed,delivered)
+                print "\nurl:%s\nhatebed at:%s\ndelivered at:%s"%(recommended_url,hatebed,delivered)
                 delivered_before_hatebed_urls.append(recommended_url)
             else:
                 delivered_after_hatebed_urls.append(recommended_url)
@@ -94,5 +97,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    #extract_recommended_urls()
-    #get_time_hatebed_at("http://www.gizmodo.jp/2013/05/world_tour_9_apps.html")
+
